@@ -154,7 +154,7 @@ exit
 From your host:
 
 ```bash
-docker cp <id>:/captures/protocol1.pcap ./captures/
+docker cp <id>:/captures/protocol1.pcap .
 ```
 
 
