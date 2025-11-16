@@ -97,7 +97,7 @@ docker network create <net-name>
 
 Run Server
 ```bash
-docker run -d --name=<name> --net=<net-name> -p 9000:9000 bd-server
+docker run -d --name <name> --net=<net-name> -p 9000:9000 bd-server
 ```
 
 Run Client
